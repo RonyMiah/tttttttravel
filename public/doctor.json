@@ -1,0 +1,40 @@
+[
+    {
+      "id":1,
+      "name":"Prof. Dr. Pran Gopal Datta",
+      "img":"https://i.ibb.co/8DJWTVj/pexels-rodnae-productions-6129049.jpg",
+      "work":"Bangabandhu Sheikh Mujib Medical University Hospital",
+      "about":"MBBS, MCPS, ACORL, PhD, MSc (Audiology), FCPS (ENT), FRCS (Glasgow) "
+    },
+  {
+    "id":2,
+      "name":"Prof. Dr. M.N. Huda",
+      "img":"https://i.ibb.co/Fxsw77J/pexels-thirdman-5327921.jpg",
+      "work":"Dhaka Medical College & Hospital",
+      "about":"MBBS (DMC), DDV (DU), FCPS (Skin & Sex) "
+  },
+  {"id":3,
+    "name":"Dr. Shamim Boksha",
+    "img":"https://i.ibb.co/txM740S/doc11.png",
+    "work":"National Hospital, Chittagong",
+    "about":"MBBS, FCPS (Medicine), MD (Gastroenterology) "
+  },
+  {"id":4,
+    "name":"Prof. Dr. Syed Atiqul Haq",
+    "img":"https://i.ibb.co/TqBsRYp/doc8.png",
+    "work":"Bangabandhu Sheikh Mujib Medical University Hospital",
+    "about":" MBBS, FCPS (Medicine), FRCP, MD (Rheumatology) "
+  },
+  {"id":5,
+    "name":"Prof. Dr. Quazi Deen Mohammad",
+    "img":"https://i.ibb.co/MN7tFbz/doc3.png",
+    "work":"National Institute of Neurosciences & Hospital",
+    "about":"MBBS, MD (Neurology), FCPS (Medicine), Fellow in Neurology (USA) "
+  },
+  {"id":6,
+    "name":"Dr. Md. Hasanuzzaman",
+    "img":"https://i.ibb.co/TTbfXg8/pexels-mikhail-nilov-8942072.jpg",
+    "work":"Chittagong Medical College & Hospital",
+    "about":" MBBS, FCPS (Medicine), MD (Neurology) "
+  }
+  ]

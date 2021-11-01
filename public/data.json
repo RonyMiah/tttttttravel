@@ -1,0 +1,44 @@
+[
+  {"id":1,
+    "name":"Dr. Alma Alo",
+    "img":"https://i.ibb.co/3WZgVrr/doc12.jpg",
+    "phone" : "+88013345934",
+    "skils":"Doctor of Clinical Medicine (DCM)",
+    "about":"Doctor of Medicine (abbreviated M.D., from the Latin Medicinae Doctor) is a medical degree, the meaning of which varies between different jurisdictions. "
+  },
+{"id":2,
+  "name":"Dr. Connor Cancio  ",
+  "img":"https://i.ibb.co/txM740S/doc11.png",
+  "phone" : "+88014345934",
+    "skils":"Master of Clinical Medicine (MCM)",
+    "about":"The MS in biomedical informatics at NYU School of Medicine’s Sackler Institute of Graduate Biomedical Sciences sharpens students’ practical skills in basic science, translational science, and medical research"
+},
+{"id":3,
+  "name":"Dr. Hannah Durphey",
+  "img":"https://i.ibb.co/TqBsRYp/doc8.png",
+  "phone" : "+88017345934",
+    "skils":"Master of Medical Science (MMSc, MMedSc)",
+    "about":"A master’s degree may be required for certain jobs of graduate degree programs. Students can use them to broaden their educational horizons of specific subjects or business sectors, and degrees can improve earning potential as well. "
+},
+{"id":4,
+  "name":"Dr. Danny Carmella",
+  "img":"https://i.ibb.co/sywp6gt/doc7.png",
+  "phone" : "+88015365934",
+    "skils":"Master of Public Health (MPH)",
+    "about":" The MPH degree focuses on public health practice, as opposed to research or teaching. Master of Public Health programs are available throughout the world in Schools of Public Health"
+},
+{"id":5,
+  "name":"Dr. Tyler Peil",
+  "img":"https://i.ibb.co/sFqdMD6/doc6.jpg",
+  "phone" : "+88015343934",
+    "skils":"Master of Medicine (MM, MMed)",
+    "about":"The advantages of MMed over membership certificated qualifications are that, whilst both groups are clinically competent at their levels, MMed specialist can enrol into a four year PhD plus fellowship and come out as consultants with PhD or do a two year fellowship without PhD."
+},
+{"id":6,
+  "name":"Dr. Jose Lueckenotte",
+  "img":"https://i.ibb.co/ZBYXRWd/doc5.png",
+  "phone" : "+88019905934",
+    "skils":"Master of Philosophy (MPhil)",
+    "about":"An MPhil typically includes a taught portion and a significant research portion, during which a thesis project is conducted under supervision. "
+}
+]

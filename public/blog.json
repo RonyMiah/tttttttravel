@@ -1,0 +1,30 @@
+[
+    {"id":1,
+      "name":"Dr. Alma Alo",
+      "img":"https://i.ibb.co/82QT9M6/Establishing-Shot-of-Technologically-Advanced-Operating-Room-with-No-People-Ready-for-Surgery-Real-M.jpg",
+      "phone" : "+88013345934",
+      "skils":"Doctor of Clinical Medicine (DCM)",
+      "about":"Doctor of Medicine (abbreviated M.D., from the Latin Medicinae Doctor) is a medical degree, the meaning of which varies between different jurisdictions. "
+    },
+  {"id":2,
+    "name":"Dr. Connor Cancio  ",
+    "img":"https://i.ibb.co/kMgM9pf/oxygen-inhalation-equipment-at-the-hospital-room-Oxygen-gauge-Health-care-and-life-save-concept-Mode.jpg",
+    "phone" : "+88014345934",
+      "skils":"Master of Clinical Medicine (MCM)",
+      "about":"The MS in biomedical informatics at NYU School of Medicine’s Sackler Institute of Graduate Biomedical Sciences sharpens students’ practical skills in basic science, translational science, and medical research"
+  },
+  {"id":3,
+    "name":"Dr. Hannah Durphey",
+    "img":"https://i.ibb.co/DRrW0tf/blog3.png",
+    "phone" : "+88017345934",
+      "skils":"Master of Medical Science (MMSc, MMedSc)",
+      "about":"A master’s degree may be required for certain jobs of graduate degree programs. Students can use them to broaden their educational horizons of specific subjects or business sectors, and degrees can improve earning potential as well. "
+  },
+  {"id":4,
+    "name":"Dr. Danny Carmella",
+    "img":"https://i.ibb.co/Jph22BT/Shot-of-a-surgeon-looking-at-a-monitor-in-an-operating-room.jpg",
+    "phone" : "+88015365934",
+      "skils":"Master of Public Health (MPH)",
+      "about":" The MPH degree focuses on public health practice, as opposed to research or teaching. Master of Public Health programs are available throughout the world in Schools of Public Health"
+  }
+]
